@@ -120,7 +120,7 @@ class _ThirdScreenState extends State<ThirdScreen> {
         ),
         FloatingActionButton(
           onPressed: () {},
-          tooltip: 'Decrement',
+          tooltip: 'Decrements',
           child: const Icon(
             Icons.remove,
             size: 32,
